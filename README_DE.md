@@ -1,6 +1,6 @@
 # IPN / IPCP
 IPN = Interplanetares Netzwerk (Interplanetares Netzwerk)<br/>
-ICP = Interplanetary communication protocol (Interplanetares Kommunikation Protokoll)<br/>
+IPCP = Interplanetary communication protocol (Interplanetares Kommunikation Protokoll)<br/>
 
 # Problembeschreibung
 Das Internet in seiner Grundidee wurde Dezentral Entwickelt, damit bei einem Angriff nicht die gesamte Kommunikation unterbrochen wird. Jedoch hat sich das Internet und seine Anwendungen Zentralisiert. Zentralisierte Server haben den Nachteil dass alle Daten bei einem Angriff verloren gehen können oder Zeitweilig nicht aufrufbar sind. 
